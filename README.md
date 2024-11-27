@@ -58,8 +58,8 @@ python -m venv venv
 ### Passo 4: Instalar as dependências
 
 ```bash
-cd biblioteca
 pip install -r requirements.txt
+cd biblioteca
 ```
 
 ### Passo 5: Migrar o banco de dados
@@ -67,6 +67,7 @@ pip install -r requirements.txt
 Após a instalação das dependências, você precisa aplicar as migrações para configurar o banco de dados:
 
 ```bash
+python manage.py makemigrations core
 python manage.py migrate
 ```
 
