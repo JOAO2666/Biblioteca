@@ -3,7 +3,7 @@
 Este é um sistema de gerenciamento de biblioteca desenvolvido como parte da Trilha 7 - Desenvolvimento Back-End (Python) do programa Residência em TIC36. Ele permite a administração de livros, autores e categorias, com funcionalidades como listagem, criação, edição e exclusão de registros. Além disso, o sistema oferece recursos de paginação, ordenação e busca de registros utilizando Django, Django Rest Framework e Django Filter.
 
 ## Desenvolvido por:
-- Michel Ferreira Batista
+- João Emanuel
    
 ## Funcionalidades
 
@@ -31,7 +31,7 @@ Este é um sistema de gerenciamento de biblioteca desenvolvido como parte da Tri
 ### Passo 1: Clonar o repositório
 
 ```bash
-git clone https://github.com/michelFB/Biblioteca.git
+git clone https://github.com/JOAO2666/Biblioteca.git
 cd biblioteca
 ```
 
